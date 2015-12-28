@@ -1,0 +1,15 @@
+.mandarin-word {
+  margin-top: 4px;
+}
+
+.mandarin-word:nth-child(even) {
+  background: #EFEFEF;
+}
+
+.mandarin-word:nth-child(odd) {
+  background: #DFDFEF;
+}
+
+.chinese span {
+  margin-right: 10px
+}
